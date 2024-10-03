@@ -1,0 +1,24 @@
+header{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+img{
+    width: 150px;
+}
+
+.oferta{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.puente{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
